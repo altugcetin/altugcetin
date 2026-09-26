@@ -12,7 +12,7 @@ astro@blocksmiths:~$ fastfetch
 ==-----------:::::::=----------------===========   Uptime: 7/24
 =------------------=-----------------=-==-======   Handle: AstroAlchemist
 ------------------#=--------------------=+======   Web: smths.co
-=--------++#+===----------------------====*=====   Contact: altug@blocksmiths.net
+=--------++#+===----------------------====*=====   Contact: astro@blocksmiths.net
 ===----*%@@@@@@@@%%*-:::------=----------==-====
 ====--%@@@@@@@@@@@@@*::::::::==-:::------+---===   Languages: Rust, Java, TypeScript, JavaScript
 -----%@@@@@@@@@@@@#*+-#*+::::-=::::----------===   Frontend: Svelte, SvelteKit, React, Next.js
